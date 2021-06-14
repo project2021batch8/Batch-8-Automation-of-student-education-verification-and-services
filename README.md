@@ -38,17 +38,17 @@ MySQL 5.0
 
 1. Extract all the files from the folder.
 2. To install the latest version of jdk, run jdk 8 from the extracted folder ***java 8 jdk***
-3. Goto MySQL, open the text file and download the contents from Google drive. Then, Goto *MySql 5 --> mysql-5.0.24a-win32* and run ***Setup***
-4. To install MySql Front, Goto *MySql 5 --> MySQL-Front_Setup5.1.FREEWARE* and run ***MySQL-Front_Setup5.1.FREEWARE***
+3. Goto MySQL, open the text file and download the contents from Google drive. Then, Goto **MySql 5 --> mysql-5.0.24a-win32** and run ***Setup***
+4. To install MySql Front, Goto **MySql 5 --> MySQL-Front_Setup5.1.FREEWARE** and run ***MySQL-Front_Setup5.1.FREEWARE***
 5. Goto *Tomcat 7.0* and run the file ***apache-tomcat-7.0.11*** (make sure to mark all the checkboxes during installation)
 6. Set path and environment vaiable for the jdk installed. 
-7. Extractopy ***D*** folder and paste it in *C:\Apache\Tomcat7.0\webapps*
-8. Extract and copy **BG*** folder and paste it in *C:\Apache\Tomcat7.0\webapps*
-9. Open *MySQL Front* and login.
+7. Extractopy ***D*** folder and paste it in **C:\Apache\Tomcat7.0\webapps**
+8. Extract and copy **BG*** folder and paste it in **C:\Apache\Tomcat7.0\webapps**
+9. Open **MySQL Front** and login.
 10. Next, right click on *localhost -> Import -> SQL File* and Import from ***resources\autosystemfinal***
 11. Click ***Refresh*** to view the imported data.
-12. To create a new Database, first copy the text file contents from *resources\auto*
-13. Goto MySQL Front, right click on *localhost -> New -> Database* and click on ***SQL Editor,*** paste the contents and run it.
+12. To create a new Database, first copy the text file contents from **resources\auto**
+13. Goto MySQL Front, right click on ***localhost -> New -> Database*** and click on ***SQL Editor,*** paste the contents and run it.
 
 
 ## Deployment
