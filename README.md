@@ -53,7 +53,7 @@ MySQL 5.0
 
 ## Deployment
 
-1. Run the ***Common Daemons Service*** Runner by clicking on it.
+1. Navigate to ***Apache/Tomcat7.0/bin*** and run **tomcat7** by clicking on it.
 2. Navigate to <http://localhost:8888/> in *Chrome* to run the program.
 3. Login by clicking ***Manager App*** button and open */BG* for running Background verification Software
 4. For the ***Web Application for Bonafide and LOR***, open */D*
